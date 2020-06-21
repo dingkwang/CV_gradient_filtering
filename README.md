@@ -1,7 +1,7 @@
 # CV_gradient_filtering
 Practice openCV gradient filtering
 ```
-cd dradient_filtering
+cd gradient_filtering
 mkdir build && cd build
 cmake ..
 make
